@@ -1,10 +1,5 @@
-Análise excelente! Os *notebooks* estão muito bem estruturados, com código limpo e boa documentação interna.
 
-Abaixo, apresento **três opções de README para o GitHub**: uma completa e profissional (ideal para o projeto), uma em formato direto/resumido e outra focada no perfil do seu repositório.
 
----
-
-### Opção 1: Completa e Profissional (Recomendada)
 
 ```markdown
 # 📊 Análise de Dados e Modelagem Preditiva — Clínica Odontológica & Regressão Linear
