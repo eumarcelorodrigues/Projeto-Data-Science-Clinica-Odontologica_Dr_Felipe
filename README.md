@@ -130,8 +130,4 @@ pip install pandas numpy matplotlib scikit-learn openpyxl
 
 ---
 
-###💡 Dicas Adicionais para o GitHub:
-1. Lembre-se de substituir `seu-usuario/seu-repositorio` pelo link real do seu repositório no GitHub.
-2. Adicione uma imagem ou print do gráfico gerado no notebook de Regressão Linear para deixar o README visualmente atraente!
-
 ```
